@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ieda Brito Martins</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iedabrito-martins" alt="iedabrito-martins" /> </p>
 - 🌱 I’m currently learning **jquery,angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iedabrito-martins](https://github.com/iedabrito-martins)
